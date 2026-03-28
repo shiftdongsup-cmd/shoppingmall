@@ -25,7 +25,7 @@ export function HeroSection() {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <Link
-            href="#"
+            href="/collection"
             className="group inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-4 text-sm font-medium tracking-wide hover:bg-primary/90 transition-all"
           >
             컬렉션 보기
